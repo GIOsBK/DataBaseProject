@@ -1,0 +1,7 @@
+File BAO_CAO la tap tin word bao cao cua nhom em.
+File SLIDE la slide khi thuyet trinh cua nhom em.
+File Model_File va Model_File.mwb.bak la file model, chinh la file chua ER Diagram cua nhom em.
+File Dump_PetGr.sql la file bao gom structure va data cua nhom em. ( bao gom Table, Trigger va Stored Procedure )
+File Khach_Hang.sql va Quan_Ly la 2 file test chinh trong buoi thuyet trinh cua nhom em.
+*** Rieng BAO_CAO va SLIDE bon em co lam lai so do thuc the lien ket bang do hoa may tinh cho ro rang hon ban ve 
+bang tay cua nhom em a.
